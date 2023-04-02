@@ -1,0 +1,16 @@
+E:\Задачи_C#\Exercise_2\Exercise_2\bin\Debug\net5.0\Exercise_2.exe
+E:\Задачи_C#\Exercise_2\Exercise_2\bin\Debug\net5.0\Exercise_2.deps.json
+E:\Задачи_C#\Exercise_2\Exercise_2\bin\Debug\net5.0\Exercise_2.runtimeconfig.json
+E:\Задачи_C#\Exercise_2\Exercise_2\bin\Debug\net5.0\Exercise_2.runtimeconfig.dev.json
+E:\Задачи_C#\Exercise_2\Exercise_2\bin\Debug\net5.0\Exercise_2.dll
+E:\Задачи_C#\Exercise_2\Exercise_2\bin\Debug\net5.0\ref\Exercise_2.dll
+E:\Задачи_C#\Exercise_2\Exercise_2\bin\Debug\net5.0\Exercise_2.pdb
+E:\Задачи_C#\Exercise_2\Exercise_2\obj\Debug\net5.0\Exercise_2.csproj.AssemblyReference.cache
+E:\Задачи_C#\Exercise_2\Exercise_2\obj\Debug\net5.0\Exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Задачи_C#\Exercise_2\Exercise_2\obj\Debug\net5.0\Exercise_2.AssemblyInfoInputs.cache
+E:\Задачи_C#\Exercise_2\Exercise_2\obj\Debug\net5.0\Exercise_2.AssemblyInfo.cs
+E:\Задачи_C#\Exercise_2\Exercise_2\obj\Debug\net5.0\Exercise_2.csproj.CoreCompileInputs.cache
+E:\Задачи_C#\Exercise_2\Exercise_2\obj\Debug\net5.0\Exercise_2.dll
+E:\Задачи_C#\Exercise_2\Exercise_2\obj\Debug\net5.0\ref\Exercise_2.dll
+E:\Задачи_C#\Exercise_2\Exercise_2\obj\Debug\net5.0\Exercise_2.pdb
+E:\Задачи_C#\Exercise_2\Exercise_2\obj\Debug\net5.0\Exercise_2.genruntimeconfig.cache
